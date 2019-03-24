@@ -1,12 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 typedef long long ll;
-int in(){int a; scanf("%d", &a); return a;}
-ll inll(){ll a; scanf("%lld", &a); return a;}
-
-const int LOG = 32;
-const ll MAX = 55;
-const ll INF = 1e18;
 
 struct Node{
 
